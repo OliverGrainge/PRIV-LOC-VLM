@@ -1,0 +1,2047 @@
+filename,system_prompt,response
+1007080252.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Jordan because the image shows the distinctive dome and architecture of the Umayyad Palace on Amman Citadel with the modern skyscrapers of Amman in the background. The stone architecture with the large dome is characteristic of Middle Eastern Islamic architecture, and specifically Jordanian historic sites. City: Amman is clearly visible with its characteristic mix of ancient ruins and modern high-rises, showing the city's unique topography built on several hills. Neighborhood: Jabal al-Qal'a (Citadel Hill) is identifiable as this is where the historic Citadel of Amman is located, with this particular structure sitting on the elevated ancient acropolis. Exact location: The structure shown is the Umayyad Palace complex, specifically the domed audience hall (or reception hall) which is one of the most recognizable structures in the Amman Citadel archaeological site."",
+    ""country"": ""Jordan"",
+    ""city"": ""Amman"",
+    ""neighborhood"": ""Jabal al-Qal'a"",
+    ""exact_location_name"": ""Umayyad Palace at Amman Citadel"",
+    ""latitude"": ""31.9539"",
+    ""longitude"": ""35.9336""
+}
+```"
+1012050478.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because the image shows people on horseback carrying an American flag alongside Mexican flags during what appears to be a parade or celebration. City: I chose Chicago because there's a sign for 'El Milagro' visible on the brick building in the background, which is a well-known tortilla factory and Mexican food brand in Chicago. Neighborhood: I chose Pilsen because it's a predominantly Mexican-American neighborhood in Chicago where El Milagro is located and where Mexican cultural parades are commonly held. Exact location: I believe this is on 18th Street, which is the main commercial corridor in Pilsen where the annual Mexican Independence Day Parade takes place, with the El Milagro tortilleria visible in the background."",
+    ""country"": ""United States"",
+    ""city"": ""Chicago"",
+    ""neighborhood"": ""Pilsen"",
+    ""exact_location_name"": ""18th Street near El Milagro Tortilleria"",
+    ""latitude"": ""41.857748"",
+    ""longitude"": ""-87.667120""
+}"
+1031280397.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Italy because the taxi in the image has Italian text 'Viaggia in Business Class' (Travel in Business Class) and shows 'BARI' on the taxi number. City: I chose Milan because it appears to be a fashion-focused scene during what might be Milan Fashion Week, given the stylish clothing and setting that matches Milan's upscale fashion districts. The architecture in the background has that Northern Italian style. Neighborhood: I chose Brera because it's a fashionable district in Milan known for its stylish streets and is popular during fashion events. Exact location: I chose Via Montenapoleone because it's Milan's most famous luxury shopping street where fashion events and street style photography commonly take place."",
+    ""country"": ""Italy"",
+    ""city"": ""Milan"",
+    ""neighborhood"": ""Brera"",
+    ""exact_location_name"": ""Via Montenapoleone"",
+    ""latitude"": ""45.4684"",
+    ""longitude"": ""9.1941""
+}
+```"
+1039327252.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because the image shows political campaign signs in English with American-style political formatting. City: I selected Houston because I can see specific campaign signs for Texas state positions (Julie Johnson for Texas State), and Houston is a major city in Texas with active political campaigns. Several signs mention local Democratic candidates, which is consistent with Houston's political landscape. Neighborhood: I chose Third Ward because it's a neighborhood in Houston known for its civic engagement and is near the University of Houston, which would explain the library sign visible and the concentration of political signage. The suburban-looking street with sidewalks and grassy areas matches Third Ward's residential character. Exact location: I selected the University of Houston Library because the blue library directional sign is prominently displayed at the beginning of the sidewalk, and the setting appears to be near a university campus with heavy election signage typical of a polling location."",
+    ""country"": ""United States"",
+    ""city"": ""Houston"",
+    ""neighborhood"": ""Third Ward"",
+    ""exact_location_name"": ""University of Houston Library"",
+    ""latitude"": ""29.721533"",
+    ""longitude"": ""-95.343170""
+}"
+104639048.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Albania because the image clearly shows the Albanian flag (red with black double-headed eagle). City: I chose Tirana because it's the capital of Albania and this appears to be a central square with government buildings. The statue of Skanderbeg (national hero on horseback) and the Et'hem Bey Mosque with its minaret are iconic landmarks in Skanderbeg Square, Tirana's main plaza. Neighborhood: I selected Qendra (Center) as this is the central district of Tirana where Skanderbeg Square is located. The exact location is Skanderbeg Square, which features this famous equestrian statue of the national hero and is surrounded by government buildings, with the mosque visible on the left."",
+    ""country"": ""Albania"",
+    ""city"": ""Tirana"",
+    ""neighborhood"": ""Qendra"",
+    ""exact_location_name"": ""Skanderbeg Square"",
+    ""latitude"": ""41.327546"",
+    ""longitude"": ""19.818743""
+}
+```"
+1052525384.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the image shows a parade with clowns in a setting that appears to be in an American city, with typical American governmental or institutional architecture visible in the background. City: I chose Washington DC because the building in the background has that distinctive formal, federal-style architecture common in DC. The light-colored stone facade with uniform windows suggests a government building. Neighborhood: I chose the National Mall area because this appears to be a parade or festival taking place near federal buildings, which are concentrated in this area. Exact location: I chose Constitution Avenue because it's a major parade route in DC near government buildings where national parades and festivities often take place."",
+    ""country"": ""United States"",
+    ""city"": ""Washington DC"",
+    ""neighborhood"": ""National Mall"",
+    ""exact_location_name"": ""Constitution Avenue"",
+    ""latitude"": ""38.892062"",
+    ""longitude"": ""-77.028236""
+}
+```"
+106158443.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Brazil because the image shows an elaborate carnival costume with vibrant purple feathers, ornate headdress, and sequined outfit typical of Rio Carnival performers. City: Rio de Janeiro is the most famous location for carnival celebrations with these types of elaborate costumes and floats visible in the background. Neighborhood: Sambadrome Marquês de Sapucaí is where the main carnival parade takes place in Rio. Exact location: The Sambadrome itself, which is the purpose-built parade area where samba schools perform during carnival season."",
+    ""country"": ""Brazil"",
+    ""city"": ""Rio de Janeiro"",
+    ""neighborhood"": ""Santo Cristo"",
+    ""exact_location_name"": ""Sambadrome Marquês de Sapucaí"",
+    ""latitude"": ""-22.912810"",
+    ""longitude"": ""-43.196388""
+}"
+10652956.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Netherlands because I can see 'AMSTEL' signage on the left side of the image, which is a Dutch beer brand, and the architecture features narrow buildings with brick facades typical of Amsterdam. City: Amsterdam is evident from the narrow alleyway with neon signs and the characteristic Dutch architecture. The word 'DELICATESSEN' is visible on one shop, and the overall night scene with colorful lights is very typical of Amsterdam's entertainment districts. Neighborhood: De Wallen (Red Light District) because of the narrow alleyway filled with neon-lit establishments, characteristic of Amsterdam's famous Red Light District. The evening atmosphere with bright colorful signs and the specific layout of shops matches this area. Exact location: I believe this is specifically Warmoestraat or one of the small alleys connecting to it, as it shows the typical layout and lighting of this particular street in the Red Light District."",
+    ""country"": ""Netherlands"",
+    ""city"": ""Amsterdam"",
+    ""neighborhood"": ""De Wallen (Red Light District)"",
+    ""exact_location_name"": ""Warmoestraat"",
+    ""latitude"": ""52.373169"",
+    ""longitude"": ""4.898378""
+}
+```"
+1071924692.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the architectural style of the buildings, particularly the neoclassical bank building with 'Farmers and Mechanics' visible on its facade. The street layout, cars, and pedestrian crossing are typical of American urban areas. City: I selected Washington DC because the image shows Georgetown's historic district with its distinctive architecture. The building with the gold dome appears to be a historic bank. Neighborhood: Georgetown because the character of the buildings, the mix of historic commercial structures, and the busy pedestrian area match this upscale historic neighborhood in DC. Exact location: This appears to be the former Farmers and Mechanics Bank building at the intersection of Wisconsin Avenue and M Street, which is a landmark in Georgetown."",
+    ""country"": ""United States"",
+    ""city"": ""Washington DC"",
+    ""neighborhood"": ""Georgetown"",
+    ""exact_location_name"": ""Former Farmers and Mechanics Bank Building"",
+    ""latitude"": ""38.9052"",
+    ""longitude"": ""-77.0624""
+}
+```"
+1082051111.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the American-style street signs, yellow taxis, and typical American road infrastructure. City: I chose Miami Beach because of the Collins Avenue sign visible in the image, which is a famous thoroughfare in Miami Beach. The palm trees, tropical atmosphere, and Art Deco style buildings are also characteristic of Miami Beach. Neighborhood: I chose South Beach because this area of Collins Avenue with retail shops, palm-lined streets, and this particular architectural style is consistent with South Beach. The colorful storefronts and pedestrian-friendly layout are typical of this area. Exact location: This appears to be the intersection of Collins Avenue and Lincoln Road, which is a major shopping district in South Beach with the distinctive palm tree layout and retail environment shown in the image."",
+    ""country"": ""United States"",
+    ""city"": ""Miami Beach"",
+    ""neighborhood"": ""South Beach"",
+    ""exact_location_name"": ""Collins Avenue and Lincoln Road intersection"",
+    ""latitude"": ""25.790654"",
+    ""longitude"": ""-80.129595""
+}
+```"
+1087783190.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Egypt because of the distinct Islamic architecture with the stone archway and Arabic inscriptions visible above the entrance. The merchandise displayed is typical of Egyptian markets, with brass lanterns, decorative metalwork, and colorful mosaic lamps. City: I selected Cairo as it's Egypt's capital with the most famous historic markets. The stone construction and archway style matches Mamluk architecture common in historic Cairo. Neighborhood: Khan el-Khalili is Cairo's most famous historic bazaar district with these exact architectural characteristics - stone archways, narrow passages, and traditional craft shops selling metalwork and lamps. Exact location: This appears to be one of the main entrances to the Khan el-Khalili bazaar, specifically the Bab al-Badistan gate, based on the distinctive archway and the concentration of brass and copper shops in this section."",
+    ""country"": ""Egypt"",
+    ""city"": ""Cairo"",
+    ""neighborhood"": ""Khan el-Khalili"",
+    ""exact_location_name"": ""Bab al-Badistan gate entrance"",
+    ""latitude"": ""30.047090"",
+    ""longitude"": ""31.262629""
+}
+```"
+109970657.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because of several clues: the red crab hats with 'Key West' written on them, the Corona beer tents and advertisements which are common at US festivals, the style of wooden houses with porches visible in the background, and the palm trees indicative of a southern coastal location. City: Key West is clearly indicated on the red crab hats, which suggests this is taking place in Key West, Florida. The tropical setting with palm trees also supports this location. Neighborhood: I selected Old Town as it's the main historic district where most festivals in Key West are held, and the wooden houses visible in the background match the traditional architecture of this area. Exact location: This appears to be the annual Key West Lobsterfest which typically takes place on Duval Street, the main commercial street in Key West where outdoor festivals are commonly held."",
+    ""country"": ""United States"",
+    ""city"": ""Key West"",
+    ""neighborhood"": ""Old Town"",
+    ""exact_location_name"": ""Duval Street (Key West Lobsterfest)"",
+    ""latitude"": ""24.5551"",
+    ""longitude"": ""-81.8013""
+}"
+1118094461.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Philippines because the image shows what appears to be performers at the Dinagyang Festival, which is a cultural festival in the Philippines. There are banners with 'No.1' visible that look like Molo Dishwashing Paste advertisements, a common Filipino brand. Also, I can see '90.7 LOVE RADIO' on a banner to the left, which is a popular radio station in the Philippines. City: I selected Iloilo City because the Dinagyang Festival is specifically celebrated there. The costumes with yellow circular hats, black bodysuits, and red garments are characteristic of the Ati tribe performances at Dinagyang. Neighborhood: I chose Iloilo City Proper as this is typically where the main festivities and performances of Dinagyang take place. Exact location: Freedom Grandstand is the main venue where these performances are typically held during the festival."",
+    ""country"": ""Philippines"",
+    ""city"": ""Iloilo City"",
+    ""neighborhood"": ""Iloilo City Proper"",
+    ""exact_location_name"": ""Freedom Grandstand"",
+    ""latitude"": ""10.692346"",
+    ""longitude"": ""122.573204""
+}
+```"
+1120890605.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Cambodia because of the Khmer script visible on multiple signs (particularly on the pharmacy sign and street signs), the 'Smart' telecom branding which is a major provider in Cambodia, the characteristic tuk-tuk style transportation, and the chaotic overhead wiring typical of Southeast Asian cities but particularly common in Cambodia. City: I chose Phnom Penh because it's the capital and largest city in Cambodia with this level of commercial development, the 'PHARMACIE' sign in French (remnant of colonial influence particularly visible in Phnom Penh), and the density of businesses. Neighborhood: I chose Daun Penh district because it's a central area with commercial activity, guest houses (visible 'GUEST HOUSE' sign), and small businesses typical of this tourist-friendly district. The specific signage and shop layout resembles the streets near the riverside area. Exact location: I chose Sisowath Quay area because of the mix of tourist-oriented businesses, pharmacy, and guesthouses that are commonly found along this riverside street."",
+    ""country"": ""Cambodia"",
+    ""city"": ""Phnom Penh"",
+    ""neighborhood"": ""Daun Penh"",
+    ""exact_location_name"": ""Sisowath Quay"",
+    ""latitude"": ""11.5564"",
+    ""longitude"": ""104.9282""
+}
+```"
+1136537420.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because of the street sign design, light rail transit system, and overall urban infrastructure which is typical American. City: I selected Norfolk, Virginia because the light rail vehicle appears to be labeled 'TIDE' which is the name of Norfolk's light rail system. Additionally, I can see 'FRY NORFOLK' on the destination display of the train. Neighborhood: I selected Downtown Norfolk because the street sign shows 'Boush St' which is a major street in downtown Norfolk. The urban density and presence of the light rail also indicates this is the downtown area. Exact location: I've chosen the intersection of Boush Street and Charlotte Street because the visible Boush Street sign appears to be at an intersection, and based on the Tide light rail route which runs through downtown Norfolk, this appears to be where the light rail crosses Boush Street."",
+    ""country"": ""United States"",
+    ""city"": ""Norfolk"",
+    ""neighborhood"": ""Downtown Norfolk"",
+    ""exact_location_name"": ""Intersection of Boush Street and Charlotte Street"",
+    ""latitude"": ""36.8515"",
+    ""longitude"": ""-76.2898""
+}"
+1146944873.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose South Korea because of the distinctive architectural style of the buildings, particularly the oval-shaped glass building on the right which appears to be the Dongdaemun Design Plaza. The urban planning with a mix of modern skyscrapers and public art installations is characteristic of Seoul. City: Seoul is evident from the skyline showing the iconic buildings of Gangnam district, including what appears to be the COEX area with its distinctive blue glass high-rises. The plaza area with art installations is typical of Seoul's urban development initiatives. Neighborhood: Gangnam is identifiable by the collection of modern office towers and the distinctive curved glass buildings. The pedestrian plaza with public art installations suggests this is part of the Gangnam business district, which is known for its modern architecture and urban planning. Exact location: This appears to be the Gangnam Finance Center plaza with its distinctive public art installations. The curved bronze sculpture in the foreground is a well-known landmark in this area."",
+    ""country"": ""South Korea"",
+    ""city"": ""Seoul"",
+    ""neighborhood"": ""Gangnam"",
+    ""exact_location_name"": ""Gangnam Finance Center Plaza"",
+    ""latitude"": ""37.504296"",
+    ""longitude"": ""127.026705""
+}"
+1151492183.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Canada because the skyline visible through the glass observation deck shows Toronto's distinctive architecture, including the CN Tower (visible in reflection) and recognizable buildings like First Canadian Place (tall white building). City: I chose Toronto because the skyline is unmistakably Toronto with its mix of modern skyscrapers and the distinctive buildings mentioned above. Neighborhood: I chose Downtown Toronto because the observation deck is looking out over the central business district with its concentration of tall office buildings. Exact location: I chose CN Tower SkyPod/EdgeWalk because the image shows visitors in a glass-enclosed observation deck with the characteristic curved glass panels and reflective surfaces that match the CN Tower's observation level. The height and viewing angle over downtown Toronto confirm this location."",
+    ""country"": ""Canada"",
+    ""city"": ""Toronto"",
+    ""neighborhood"": ""Downtown Toronto"",
+    ""exact_location_name"": ""CN Tower SkyPod/EdgeWalk"",
+    ""latitude"": ""43.6426"",
+    ""longitude"": ""-79.3871""
+}
+```"
+115905796.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because the skyline is distinctly American with characteristic architecture. City: I chose Cleveland because the image clearly shows the Rock and Roll Hall of Fame (the distinctive white geometric building in the center) along with Cleveland's recognizable skyline featuring Key Tower (the tallest building with the pointed top) and Terminal Tower (the building with the lit-up spire on the right). Neighborhood: I chose Downtown Cleveland because this view is taken from the North Coast Harbor area looking at the downtown skyline across the water. Exact location: This is North Coast Harbor, specifically from the lakefront promenade near the Great Lakes Science Center, looking toward the Rock and Roll Hall of Fame with downtown Cleveland in the background."",
+    ""country"": ""United States"",
+    ""city"": ""Cleveland"",
+    ""neighborhood"": ""Downtown Cleveland"",
+    ""exact_location_name"": ""North Coast Harbor"",
+    ""latitude"": ""41.5084"",
+    ""longitude"": ""-81.6959""
+}"
+1224295261.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Vietnam because of the Vietnamese text on billboards (including references to AirAsia and Vietnamese phrases), the large number of motorbikes which is characteristic of Vietnamese urban traffic, the Vietnamese flag emblem on the orange billboard (with yellow star), and dates '2/9/1945' which likely references Vietnam's Independence Day. City: I chose Ho Chi Minh City because of the dense urban environment with modern billboards, typical of Vietnam's largest commercial center. The traffic pattern and building density are characteristic of HCMC rather than Hanoi. Neighborhood: I chose District 1 because it appears to be a major commercial intersection with large advertisements and retail spaces typical of HCMC's central business district. The Cititel hotel visible in the image is located in District 1. Exact location: This appears to be Quang Trung statue intersection where Le Lai meets Nguyen Thi Nghia streets, a major junction in HCMC with these characteristic billboards and traffic patterns."",
+    ""country"": ""Vietnam"",
+    ""city"": ""Ho Chi Minh City"",
+    ""neighborhood"": ""District 1"",
+    ""exact_location_name"": ""Quang Trung Statue Intersection"",
+    ""latitude"": ""10.768174"",
+    ""longitude"": ""106.693352""
+}
+```"
+1226386096.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Cyprus because the image shows a distinctive modern sculpture overlooking a Mediterranean coastline with characteristic rocky terrain and azure blue waters. The arid landscape with sparse vegetation is typical of Cyprus. City: I selected Ayia Napa because it's a coastal resort area in Cyprus known for its beautiful beaches and modern art installations. The setting appears to be on a cliff overlooking the sea in a somewhat developed but not densely urban coastal area. Neighborhood: Cape Greco is a nature park area near Ayia Napa with coastal cliffs and sculptures. The natural setting with rocky outcroppings and the sea view is characteristic of this area. Exact location: This appears to be one of the sculptures from the Ayia Napa Sculpture Park, which features modern art installations overlooking the Mediterranean Sea."",
+    ""country"": ""Cyprus"",
+    ""city"": ""Ayia Napa"",
+    ""neighborhood"": ""Cape Greco"",
+    ""exact_location_name"": ""Ayia Napa Sculpture Park"",
+    ""latitude"": ""34.9785"",
+    ""longitude"": ""34.0079""
+}
+```"
+123029515.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the iconic Art Deco architecture style of the buildings and the famous Atlas statue visible in the foreground. City: I selected New York City because this is clearly the Rockefeller Center complex with its distinctive limestone buildings and the iconic Atlas statue. Neighborhood: Midtown Manhattan is where Rockefeller Center is located, between 48th and 51st streets. Exact location: This is specifically the Atlas statue at Rockefeller Center, with the International Building (30 Rockefeller Plaza) visible in the background. The statue's design and the surrounding architecture are unmistakable landmarks of this location."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Midtown Manhattan"",
+    ""exact_location_name"": ""Atlas Statue at Rockefeller Center"",
+    ""latitude"": ""40.759167"",
+    ""longitude"": ""-73.977778""
+}
+```"
+1260277090.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the architectural style of the building which appears to be a Chinese-influenced structure in an American urban setting, with English signage and American-style traffic lights. City: I chose San Francisco because this appears to be a pagoda-style building in what looks like Chinatown, and San Francisco has one of the most prominent Chinatowns in the US. The building has the distinctive green-tiled pagoda roof common in SF Chinatown. Neighborhood: I chose Chinatown because the building has clear Chinese architectural elements including the pagoda-style roof and what appears to be a Chinese restaurant sign ('CHOP SUI'). Exact location: I believe this is the Wok Fay Restaurant/former Far East Cafe building on Grant Avenue, which is a historic building in SF Chinatown with this distinctive architectural style."",
+    ""country"": ""United States"",
+    ""city"": ""San Francisco"",
+    ""neighborhood"": ""Chinatown"",
+    ""exact_location_name"": ""Far East Cafe/Wok Fay Building"",
+    ""latitude"": ""37.796234"",
+    ""longitude"": ""-122.406144""
+}
+```"
+1266067255.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose France because the image shows the Goyard boutique with French signage including 'MALLETTIER' (trunk maker) and typical Parisian Haussmannian architecture. City: I selected Paris because Goyard is a historic French luxury brand with its flagship store in Paris, and the classical stonework buildings with wrought iron balconies are quintessentially Parisian. Neighborhood: I identified the 1st arrondissement because this is where the historic Goyard flagship store is located, near high-end shopping areas. The exact location is the Goyard flagship store on rue Saint-Honoré, which is a well-known luxury shopping street in Paris, and this storefront with the number 233 visible and 'GOYARD' signage matches the historic boutique at this address."",
+    ""country"": ""France"",
+    ""city"": ""Paris"",
+    ""neighborhood"": ""1st Arrondissement"",
+    ""exact_location_name"": ""Goyard Flagship Store"",
+    ""latitude"": ""48.8673"",
+    ""longitude"": ""2.3289""
+}
+```"
+1281298372.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose India because the image clearly shows the Statue of Unity, which is a famous landmark in India. The statue has the distinctive tricolor of the Indian flag (green, white, orange) draped on it. City: I chose Kevadia because this is where the Statue of Unity is located. Neighborhood: I selected Sadhu Bet because the Statue of Unity is built on this island in the Narmada River. Exact location: This is definitely the Statue of Unity festival ground, with colorful kites flying in the air during what appears to be a kite festival near the world's tallest statue."",
+    ""country"": ""India"",
+    ""city"": ""Kevadia"",
+    ""neighborhood"": ""Sadhu Bet"",
+    ""exact_location_name"": ""Statue of Unity"",
+    ""latitude"": ""21.8380"",
+    ""longitude"": ""73.7191""
+}"
+1285186675.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the image shows a Nathan Hale statue (1755-1776), a famous American Revolutionary War figure. City: I chose Chicago because the building appears to be the Tribune Tower, which has a distinctive neo-Gothic architecture. The sign visible in the image directs visitors to 'ENTER VIA TOWER LOBBY'. Neighborhood: I chose Magnificent Mile because the Tribune Tower is located on this famous stretch of Michigan Avenue in downtown Chicago. Exact location: This is definitely the Tribune Tower with its Gothic architecture and the prominently displayed Nathan Hale statue at its entrance."",
+    ""country"": ""United States"",
+    ""city"": ""Chicago"",
+    ""neighborhood"": ""Magnificent Mile"",
+    ""exact_location_name"": ""Tribune Tower"",
+    ""latitude"": ""41.890633"",
+    ""longitude"": ""-87.623713""
+}
+```"
+131591687.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Germany because the distinctive coral/salmon-colored building with modernist architecture resembles buildings in Berlin. The statue appears to be of Poseidon/Neptune with a trident, which is common in European public art. City: Berlin seems likely due to the architectural style and color scheme that matches some of the government and commercial buildings in this city. The modernist glass and concrete style with the distinctive coral color is reminiscent of Berlin's post-war architecture. Neighborhood: Mitte is Berlin's central district that contains many significant government buildings and public art installations. The formal setting of this statue against a prominent building suggests a central, important district. Exact location: The Neptunbrunnen (Neptune Fountain) is a famous fountain in Berlin that features Neptune/Poseidon with a trident, positioned near the Rotes Rathaus (Red Town Hall), which has a distinctive reddish façade similar to what's visible in the background."",
+    ""country"": ""Germany"",
+    ""city"": ""Berlin"",
+    ""neighborhood"": ""Mitte"",
+    ""exact_location_name"": ""Neptunbrunnen (Neptune Fountain)"",
+    ""latitude"": ""52.519444"",
+    ""longitude"": ""13.407778""
+}"
+1343587868.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the street sign format (Williams St) and the yellow streetcar. City: I chose Atlanta because the streetcar shown is part of the Atlanta Streetcar system with its distinctive yellow color and 'OLYMPIC PARK' destination sign. Neighborhood: I chose Downtown because the Atlanta Streetcar runs through downtown Atlanta and Olympic Park is located in this area. Exact location: I chose the intersection of Williams Street NW and Andrew Young International Blvd based on the visible street sign for Williams St and the direction the streetcar is traveling, which appears to be along Auburn Ave near this intersection. The urban setting with tall buildings and the streetcar tracks embedded in the road are consistent with this location."",
+    ""country"": ""United States"",
+    ""city"": ""Atlanta"",
+    ""neighborhood"": ""Downtown"",
+    ""exact_location_name"": ""Williams Street NW and Auburn Avenue intersection"",
+    ""latitude"": ""33.756374"",
+    ""longitude"": ""-84.387653""
+}
+```"
+1359283886.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because of the distinctive architecture style with brick buildings, Maryland flag visible, and American-style traffic signals. City: I chose Annapolis because I can see what appears to be the Maryland state flag (black, gold, red, and white pattern) and the overall architecture and brick-paved streets are characteristic of Annapolis's historic district. Neighborhood: I chose Downtown Annapolis because the image shows Main Street with its historic colonial buildings, brick sidewalks, and the church steeple visible in the background is typical of this area. The shop 'The Lucky Knot' is visible which is a known establishment in Annapolis. Exact location: Main Street is the primary shopping street in historic Annapolis with this exact view likely near the intersection with Francis Street based on the arrangement of buildings and the church steeple in the background."",
+    ""country"": ""United States"",
+    ""city"": ""Annapolis"",
+    ""neighborhood"": ""Downtown Annapolis"",
+    ""exact_location_name"": ""Main Street"",
+    ""latitude"": ""38.978447"",
+    ""longitude"": ""-76.491280""
+}"
+1384052783.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Germany because the posters are prominently displaying German text ('Berlin', 'Hamburg', 'Max-Schmeling-Halle') and the website domains have '.de' extensions. City: I selected Berlin because multiple posters specifically mention 'Berlin' as a venue location, including Berlin Philharmonie and Berlin Musik & Frieden. Neighborhood: I chose Prenzlauer Berg because the Max-Schmeling-Halle is located in this district, and this appears to be a cultural/entertainment area with many concert posters. The exact location appears to be near a cultural venue or ticket shop based on the concentration of event posters for various performances."",
+    ""country"": ""Germany"",
+    ""city"": ""Berlin"",
+    ""neighborhood"": ""Prenzlauer Berg"",
+    ""exact_location_name"": ""Kulturbrauerei"",
+    ""latitude"": ""52.5404"",
+    ""longitude"": ""13.4114""
+}
+```"
+1385018609.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Canada because there are visible 'Canada' signs on buildings in the skyline and the bus stop shows 'Union Station' which is a major transit hub in Winnipeg. City: I selected Winnipeg because the bus shown has route '59 S. ST. ANNE'S EXP' which is a Winnipeg Transit route, and the skyline matches downtown Winnipeg. The building labeled 'Bell MTS' is also a distinctive Winnipeg landmark. Neighborhood: I chose Downtown Winnipeg because the image shows the downtown skyline with major office buildings, and Union Station is located in downtown Winnipeg. Exact location: This appears to be the Winnipeg Transit bus stop at Union Station on Main Street, based on the visible 'UNION STATION' sign at the bus stop and the positioning of the buses."",
+    ""country"": ""Canada"",
+    ""city"": ""Winnipeg"",
+    ""neighborhood"": ""Downtown Winnipeg"",
+    ""exact_location_name"": ""Union Station Bus Stop, Main Street"",
+    ""latitude"": ""49.886150"",
+    ""longitude"": ""-97.134070""
+}
+```"
+1387147910.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Japan because the image clearly shows 'Takeshita Street' written on the colorful arch, which is a famous shopping street in Tokyo. I can also see Japanese characters on many of the storefronts and signs. City: Tokyo is evident because Takeshita Street is specifically located in Tokyo, Japan. The urban density, style of buildings, and mix of Japanese signage with international brands (Skechers, Yoshinoya) are characteristic of Tokyo. Neighborhood: Harajuku is the correct neighborhood because Takeshita Street is the main pedestrian shopping street of Harajuku, known for its colorful decorations and youth fashion culture. Exact location: The entrance arch to Takeshita Street is what we're seeing in the image, with its distinctive colorful balloon-like decorations forming the gateway to this famous pedestrian shopping area."",
+    ""country"": ""Japan"",
+    ""city"": ""Tokyo"",
+    ""neighborhood"": ""Harajuku"",
+    ""exact_location_name"": ""Takeshita Street Entrance Arch"",
+    ""latitude"": ""35.6716"",
+    ""longitude"": ""139.7031""
+}"
+1391338646.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Czech Republic because the image shows the famous moving statue of Franz Kafka by David Černý, which is located in Prague. The distinctive kinetic sculpture with mirrored surfaces that rotate in layers to form a head is a well-known Prague landmark. City: Prague is clearly identifiable from this distinctive sculpture and the surrounding architecture which has a Central European style typical of Prague's urban landscape. Neighborhood: I identified this as Prague 1 because the Kafka Head sculpture is located in the shopping complex near Národní třída in central Prague. Exact location: This is the Quadrio Shopping Center where the kinetic Kafka sculpture is prominently displayed in the plaza outside."",
+    ""country"": ""Czech Republic"",
+    ""city"": ""Prague"",
+    ""neighborhood"": ""Prague 1"",
+    ""exact_location_name"": ""Quadrio Shopping Center"",
+    ""latitude"": ""50.0817"",
+    ""longitude"": ""14.4193""
+}
+```"
+1426869716.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because of the street sign 'Berford Av' with the 'W' designation and the historical marker about the 'Freedom Now Rally' that mentions Dr. Martin Luther King. City: I chose Philadelphia because the historical marker specifically mentions a Freedom Now Rally on August 3, 1965, which took place in Philadelphia, and the street name (Berford Av) is consistent with Philadelphia naming conventions. Neighborhood: I chose Cecil B. Moore/North Philadelphia because this area is historically associated with civil rights activism in Philadelphia, and the mural appears to commemorate civil rights history. The marker mentions King touring 'northern Black neighborhoods,' which matches this area. Exact location: The Freedom Now Rally historical marker and the associated mural of what appears to be a civil rights demonstration points to this being the Cecil B. Moore Freedom Wall, a known landmark in this area that commemorates civil rights history."",
+    ""country"": ""United States"",
+    ""city"": ""Philadelphia"",
+    ""neighborhood"": ""Cecil B. Moore/North Philadelphia"",
+    ""exact_location_name"": ""Cecil B. Moore Freedom Wall"",
+    ""latitude"": ""39.9784"",
+    ""longitude"": ""-75.1642""
+}"
+1430327645.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Italy because of the distinctive Baroque architecture with ornate church facades, the yellow/cream colored limestone buildings, green shutters on windows, and potted cacti on balconies typical of southern Italy. City: I selected Lecce because the image shows the distinctive honey-colored Lecce stone (pietra leccese) buildings and Baroque architectural details common in this city known as 'The Florence of the South.' Neighborhood: I chose Centro Storico (historic center) because the image shows tightly packed historic buildings, narrow streets, and a church facade typical of the old town. Exact location: This appears to be near Chiesa di Santa Chiara, a Baroque church in Lecce's historic center, based on the ornate church facade visible with the cross on top and the surrounding historic buildings typical of this specific area."",
+    ""country"": ""Italy"",
+    ""city"": ""Lecce"",
+    ""neighborhood"": ""Centro Storico"",
+    ""exact_location_name"": ""Chiesa di Santa Chiara"",
+    ""latitude"": ""40.351824"",
+    ""longitude"": ""18.171911""
+}"
+1431908084.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because of the American-style traffic lights, typical American SUVs (Dodge Journey) on the road, and the modern sports arena architecture. City: I selected Atlanta because the building appears to be State Farm Arena with its distinctive curved roof and glass facade. The Mercedes-Benz logo visible on another building in the distance is likely Mercedes-Benz Stadium which is located near State Farm Arena in Atlanta. Neighborhood: I chose Downtown Atlanta because both State Farm Arena and Mercedes-Benz Stadium are located in the downtown area of Atlanta. Exact location: This appears to be State Farm Arena (formerly Philips Arena) based on the distinctive architecture and its proximity to what looks like Mercedes-Benz Stadium."",
+    ""country"": ""United States"",
+    ""city"": ""Atlanta"",
+    ""neighborhood"": ""Downtown Atlanta"",
+    ""exact_location_name"": ""State Farm Arena"",
+    ""latitude"": ""33.757268"",
+    ""longitude"": ""-84.396438""
+}"
+1435368068.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Guam because there are visible banners with 'GUAM!' written on them along the street. City: Tumon is my guess as it's the main tourist area in Guam with shopping centers and hotels. Neighborhood: Pleasure Island appears to be the shopping and entertainment district in Tumon. The image shows the Galleria mall area and what appears to be the main tourist strip. Exact location: The Galleria shopping mall is clearly visible on the left side of the image with its white tiled exterior and signage, and this appears to be taken at the intersection near it."",
+    ""country"": ""Guam"",
+    ""city"": ""Tumon"",
+    ""neighborhood"": ""Pleasure Island"",
+    ""exact_location_name"": ""Intersection near The Galleria"",
+    ""latitude"": ""13.514994"",
+    ""longitude"": ""144.805048""
+}
+```"
+1449094478.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because of the architectural style of the brick theater building and the 'Pabst' sign visible, which is likely the Pabst Theater, a historic venue in Milwaukee. City: Milwaukee is evident from the distinctive Pabst Theater building, which is a landmark in the city. The modern building with the green/copper pyramid roof in the background is the 100 East Wisconsin building, another Milwaukee landmark. Neighborhood: Downtown Milwaukee because the Pabst Theater is located in the downtown theater district of Milwaukee. Exact location: This is clearly the Pabst Theater, a historic performance venue built in 1895 that still operates today as a concert and event space."",
+    ""country"": ""United States"",
+    ""city"": ""Milwaukee"",
+    ""neighborhood"": ""Downtown"",
+    ""exact_location_name"": ""Pabst Theater"",
+    ""latitude"": ""43.0403"",
+    ""longitude"": ""-87.9092""
+}"
+1451851805.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Mongolia because the image shows a traditional Mongolian yurt (ger) with its distinctive round shape, felt covering, and central chimney. The people are wearing traditional Mongolian clothing including deel (long robes) with belts, and traditional hats. City: I selected Ulaanbaatar because it's the capital and largest city in Mongolia where traditional and modern structures often exist side by side, as seen with the modern building in the background alongside the ger. Neighborhood: Ger districts are common in the outskirts of Ulaanbaatar, and Bayanzürkh is one of the largest districts with numerous ger settlements. The semi-permanent nature of this ger setup with wooden fencing and electricity suggests it's in a ger district rather than rural countryside. Exact location: The Mongolian Ger Cultural Center is a place where tourists can experience traditional Mongolian culture, and this appears to be a cultural demonstration site based on the well-maintained ger and traditional clothing display."",
+    ""country"": ""Mongolia"",
+    ""city"": ""Ulaanbaatar"",
+    ""neighborhood"": ""Bayanzürkh District"",
+    ""exact_location_name"": ""Mongolian Ger Cultural Center"",
+    ""latitude"": ""47.9138"",
+    ""longitude"": ""106.9220""
+}"
+145555549.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the image shows Nickelodeon Universe theme park, which has locations in the US. The large indoor structure with extensive metal framework suggests the Mall of America location. City: I chose Bloomington because the Mall of America, which houses this Nickelodeon Universe, is located in Bloomington, Minnesota. Neighborhood: I chose South Loop because the Mall of America is situated in the South Loop area of Bloomington. Exact location: This is clearly Nickelodeon Universe inside Mall of America, identifiable by the orange Nickelodeon Universe globe suspended from the ceiling, the distinctive roller coaster tracks, and the large indoor space with steel roof structure typical of this mall."",
+    ""country"": ""United States"",
+    ""city"": ""Bloomington"",
+    ""neighborhood"": ""South Loop"",
+    ""exact_location_name"": ""Nickelodeon Universe, Mall of America"",
+    ""latitude"": ""44.8549"",
+    ""longitude"": ""-93.2422""
+}
+```"
+1469468930.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the image shows a state trooper vehicle with 'STATE TROOPER' written on it, which is typical of US law enforcement. The patch on the uniform appears to be from Texas Department of Public Safety. City: I chose Houston because the palm trees suggest a southern location, and the large commercial/industrial building in the background is consistent with Houston's landscape. Neighborhood: I chose Northwest Houston because it has many industrial areas with similar buildings and security checkpoints. Exact location: I chose the Houston Premium Outlets because it's a large commercial property in northwest Houston that would have security checkpoints and state trooper presence for traffic management."",
+    ""country"": ""United States"",
+    ""city"": ""Houston"",
+    ""neighborhood"": ""Northwest Houston"",
+    ""exact_location_name"": ""Houston Premium Outlets"",
+    ""latitude"": ""29.9874"",
+    ""longitude"": ""-95.6841""
+}
+```"
+1495192328.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the bus shows 'RTD' which is the Regional Transportation District in Denver, Colorado. City: Denver is clear from the RTD bus system which only operates in Denver metropolitan area. The state capitol building dome is visible in the background. Neighborhood: Downtown Denver is evident because of the Capitol building, commercial businesses including McDonald's, and the urban setting with the Free MallRide bus which operates on the 16th Street Mall. Exact location: This appears to be at the intersection of 16th Street Mall and Broadway, with the RTD Free MallRide bus (#1664) stopped at a station, with the Capitol building visible in the background."",
+    ""country"": ""United States"",
+    ""city"": ""Denver"",
+    ""neighborhood"": ""Downtown Denver"",
+    ""exact_location_name"": ""16th Street Mall and Broadway Intersection"",
+    ""latitude"": ""39.742043"",
+    ""longitude"": ""-104.987201""
+}
+```"
+1542687881.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Lithuania because this appears to be the famous upside-down house attraction in Lithuania. The distinctive bright yellow color with white trim and the completely inverted structure is characteristic of this tourist attraction. City: I selected Šiauliai because this upside-down house is located near this city in Lithuania. The surrounding landscape with birch trees and open green space matches the location. Neighborhood: I chose Dainai because this is a district in Šiauliai where similar attractions are located. The rural setting with forest edge visible matches this area. Exact location: This is almost certainly the 'Apverstas namas' (Upside Down House) attraction, a popular tourist destination in Lithuania. The construction style, colors, and setting are very distinctive."",
+    ""country"": ""Lithuania"",
+    ""city"": ""Šiauliai"",
+    ""neighborhood"": ""Dainai"",
+    ""exact_location_name"": ""Apverstas namas (Upside Down House)"",
+    ""latitude"": ""55.917418"",
+    ""longitude"": ""23.315324""
+}
+```"
+1546422026.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the architectural style of the brick buildings, the street layout, and signage that appears to be in English. City: I chose Tulsa because the brick buildings appear to be part of a revitalized historic downtown area with characteristic red brick architecture common in Oklahoma. The storefronts and overall aesthetic match Tulsa's Blue Dome District. Neighborhood: I chose Blue Dome District because of the renovated brick warehouses converted to retail spaces, wide sidewalks, and the signage visible for what appears to be a yoga or wellness studio ('breathe, respire'). Exact location: I chose AH Yoga Studio on Elgin Avenue because the sign visible in the image shows 'A' and 'H' in a circular logo, which appears to be AH Yoga, a business in this district."",
+    ""country"": ""United States"",
+    ""city"": ""Tulsa"",
+    ""neighborhood"": ""Blue Dome District"",
+    ""exact_location_name"": ""AH Yoga Studio"",
+    ""latitude"": ""36.158958"",
+    ""longitude"": ""-95.988039""
+}
+```"
+1551881807.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Peru because the image shows people in traditional Andean clothing with distinctive colorful textiles, hats, and decorative elements typical of Peruvian highlands. The presence of alpacas/llamas, stone architecture with whitewashed walls, and the particular style of dress (especially the colorful circular hats and embroidered skirts) are characteristic of Cusco region in Peru. City: I chose Cusco because it's the historical capital of the Inca Empire and a major center for traditional Andean culture. The stone street paving, architectural style, and the presence of indigenous people with alpacas in traditional dress strongly suggests Cusco. Neighborhood: I chose San Blas because it's a historic district in Cusco known for its narrow cobblestone streets, artisan shops, and is frequently visited by tourists who interact with local people in traditional dress with their alpacas. Exact location: I chose Calle Hatunrumiyoc because this is a famous stone-paved street in the San Blas district where locals often stand with alpacas for tourist photos, and the distinctive stone walls and blue doors are consistent with this historic street."",
+    ""country"": ""Peru"",
+    ""city"": ""Cusco"",
+    ""neighborhood"": ""San Blas"",
+    ""exact_location_name"": ""Calle Hatunrumiyoc"",
+    ""latitude"": ""-13.5152"",
+    ""longitude"": ""-71.9753""
+}
+```"
+1557696524.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the typical American architecture with red brick buildings, the style of storefronts, and American-style vehicles parked on the street. City: I chose Northampton because the image shows a well-preserved historic downtown with distinctive red brick buildings typical of New England, and I can see what appears to be 'DOGTOWN' signage which is a known business in Northampton, MA. Neighborhood: I selected Downtown Northampton because this appears to be the main commercial district with historic storefronts and retail businesses. Exact location: This looks like Main Street based on the wide street with angled parking, historic buildings, and the characteristic appearance of Northampton's primary commercial corridor."",
+    ""country"": ""United States"",
+    ""city"": ""Northampton"",
+    ""neighborhood"": ""Downtown Northampton"",
+    ""exact_location_name"": ""Main Street"",
+    ""latitude"": ""42.319324"",
+    ""longitude"": ""-72.630434""
+}
+```"
+1575001888.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Mongolia because the image shows a person in traditional fur clothing with a distinctive hat riding a horse and handling an eagle, which is characteristic of Kazakh eagle hunters in Mongolia. The landscape features arid, mountainous terrain with vast open steppes typical of western Mongolia. City: I selected Ölgii because it's the capital of Bayan-Ölgii province where most ethnic Kazakhs live and where eagle hunting is practiced. Neighborhood: Sagsai is a rural area near Ölgii known for eagle hunting activities and tourist demonstrations. Exact location: The Altai Mountains backdrop with the specific valley setup suggests this is near the Eagle Hunters Festival grounds, a famous location where eagle hunting demonstrations are held."",
+    ""country"": ""Mongolia"",
+    ""city"": ""Ölgii"",
+    ""neighborhood"": ""Sagsai"",
+    ""exact_location_name"": ""Eagle Hunters Festival grounds"",
+    ""latitude"": ""48.9682"",
+    ""longitude"": ""89.9638""
+}
+```"
+1584356380.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Finland because the image clearly shows the Stockmann department store, which is a famous Finnish retail chain. City: Helsinki is the location of Stockmann's flagship store with this distinctive brick architecture and prominent entrance. Neighborhood: The central location with tram tracks visible and the pedestrian area indicates this is in Helsinki's city center, specifically Aleksanterinkatu area. The exact location is Stockmann's main department store at the address Aleksanterinkatu 52, with Robert's Coffee visible on the corner of the building, which is a characteristic feature of this location."",
+    ""country"": ""Finland"",
+    ""city"": ""Helsinki"",
+    ""neighborhood"": ""Aleksanterinkatu"",
+    ""exact_location_name"": ""Stockmann Department Store"",
+    ""latitude"": ""60.1683"",
+    ""longitude"": ""24.9419""
+}
+```"
+159139895.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Spain because the image clearly shows the Running of the Bulls (Encierro), which is most famously held in Pamplona, Spain during the San Fermín festival. The participants are wearing the traditional white clothing with red scarves/sashes. City: Pamplona is the obvious choice as it's the city known worldwide for this dangerous bull-running tradition. Neighborhood: The Casco Viejo (Old Town) of Pamplona is where the bull runs take place, with their distinctive narrow streets. Exact location: The image appears to be on Calle Estafeta, which is the longest and most famous stretch of the bull run route, recognizable by its cobblestone streets and historic buildings with balconies where spectators watch."",
+    ""country"": ""Spain"",
+    ""city"": ""Pamplona"",
+    ""neighborhood"": ""Casco Viejo (Old Town)"",
+    ""exact_location_name"": ""Calle Estafeta"",
+    ""latitude"": ""42.818776"",
+    ""longitude"": ""-1.642590""
+}
+```"
+1652769415.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the American-style traffic lights, street signs in English, and the presence of major hotel chains like Marriott and Sheraton. City: I selected New Orleans because I can see palm trees, distinctive architecture with a historic hotel (which appears to be the Roosevelt Hotel), and street signs indicating Canal Street which is a famous street in New Orleans. Neighborhood: I identified the French Quarter/CBD border area because this intersection of Canal Street and what appears to be St. Charles Avenue sits at the edge of the French Quarter and the Central Business District. Exact location: The Roosevelt Hotel New Orleans is the historic building on the left side of the image with the flags in front, and the intersection appears to be Canal Street and St. Charles Avenue/Royal Street."",
+    ""country"": ""United States"",
+    ""city"": ""New Orleans"",
+    ""neighborhood"": ""French Quarter/CBD border"",
+    ""exact_location_name"": ""Canal Street at St. Charles Avenue intersection, by The Roosevelt Hotel"",
+    ""latitude"": ""29.954597"",
+    ""longitude"": ""-90.072676""
+}
+```"
+1674177799.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose France because the image shows a distinctive medieval fortress with a stone bridge leading to it. The architecture style with crenellated walls, towers, and the statue visible on top of one of the towers are characteristic of French medieval architecture. City: I selected Avignon because this appears to be the famous Palais des Papes (Palace of the Popes) complex with its distinctive medieval walls and towers. The bridge visible appears to be the Saint-Bénézet Bridge (Pont d'Avignon). Neighborhood: I chose Centre Ville (City Center) because the Palace of the Popes is located in the historic center of Avignon. Exact location: This is the Pont Saint-Bénézet (also known as Pont d'Avignon), a famous medieval bridge that extends into the Rhône river. The viewpoint is looking toward the Palais des Papes complex."",
+    ""country"": ""France"",
+    ""city"": ""Avignon"",
+    ""neighborhood"": ""Centre Ville"",
+    ""exact_location_name"": ""Pont Saint-Bénézet (Pont d'Avignon)"",
+    ""latitude"": ""43.9546"",
+    ""longitude"": ""4.8056""
+}
+```"
+1682035768.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because the image shows a bulletin board with flyers featuring MIT (Massachusetts Institute of Technology) branding, including MIT Curling, MIT Rocket Team, and MIT Women's Ultimate Frisbee. City: I selected Cambridge because MIT is located in Cambridge, Massachusetts. The email domains on some flyers show mit.edu. Neighborhood: I picked Kendall Square because it's the area where MIT's main campus is located. Exact location: I identified this as MIT's Infinite Corridor or one of MIT's main buildings because this appears to be a bulletin board in a heavily trafficked area of campus with numerous student activities and club advertisements typical of university hallways."",
+    ""country"": ""United States"",
+    ""city"": ""Cambridge"",
+    ""neighborhood"": ""Kendall Square"",
+    ""exact_location_name"": ""MIT Infinite Corridor"",
+    ""latitude"": ""42.359377"",
+    ""longitude"": ""-71.093130""
+}"
+1736814494.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the typical American main street appearance, American-style pickup truck, and visible signage in English. City: I chose Deadwood because I can see 'Old Style Saloon No. 10' sign which is a famous establishment in Deadwood, South Dakota. Additionally, the 'Stagecoach' gift shop and western-themed storefronts are consistent with Deadwood's historic preservation of its Wild West heritage. Neighborhood: I chose Historic Main Street because this appears to be the main historic district of Deadwood with preserved old-west style buildings and tourist shops. Exact location: The Old Style Saloon No. 10 is clearly visible in the image, which is a famous historic attraction in Deadwood where Wild Bill Hickok was allegedly killed."",
+    ""country"": ""United States"",
+    ""city"": ""Deadwood"",
+    ""neighborhood"": ""Historic Main Street"",
+    ""exact_location_name"": ""Old Style Saloon No. 10"",
+    ""latitude"": ""44.376307"",
+    ""longitude"": ""-103.729554""
+}
+```"
+1799295298.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose India because the street signs are in Tamil script and English, which is characteristic of Tamil Nadu state in India. City: I chose Chennai because the signs mention 'Central' and 'Anna Salai' which are major landmarks in Chennai. Anna Salai is one of Chennai's main roads. The sign also shows 'Parrys' which refers to Parrys Corner, a historic business district in Chennai. Neighborhood: I chose George Town because it's close to Chennai Central and Parrys Corner as indicated on the sign. Exact location: This appears to be the junction near Chennai Central Railway Station where Anna Salai meets with roads leading to Parrys Corner."",
+    ""country"": ""India"",
+    ""city"": ""Chennai"",
+    ""neighborhood"": ""George Town"",
+    ""exact_location_name"": ""Anna Salai Junction near Chennai Central Railway Station"",
+    ""latitude"": ""13.083680"",
+    ""longitude"": ""80.275199""
+}
+```"
+1829291111.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because the image shows what appears to be a state capitol building with American flag, desert vegetation including palm trees and cacti, and there's a sign mentioning 'Grand Canyon Centennial' which is located in Arizona. City: I selected Phoenix because it's the capital of Arizona, and this appears to be the Arizona State Capitol building with its distinctive copper dome and neoclassical architecture. The desert landscaping with palm trees and cacti is typical of Phoenix. Neighborhood: I chose Capitol Mall area because this is where government buildings are concentrated in downtown Phoenix. The formal gardens and layout suggest this is the Capitol complex. Exact location: The Arizona State Capitol building is clearly visible with its distinctive dome and neoclassical facade, flag pole in front, and surrounding desert landscaping."",
+    ""country"": ""United States"",
+    ""city"": ""Phoenix"",
+    ""neighborhood"": ""Capitol Mall"",
+    ""exact_location_name"": ""Arizona State Capitol"",
+    ""latitude"": ""33.448376"",
+    ""longitude"": ""-112.097771""
+}"
+1869307741.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the dumpsters have English language signage and a US-format phone number (608 area code). City: I chose Madison because the 608 area code is specific to south-central Wisconsin, with Madison being the largest city in that region. The LSi (Lanorud Services, Inc.) waste management company shown on the dumpsters operates in this area. Neighborhood: I chose West Side because it's a commercial/business area of Madison where this type of waste management service would be common. Exact location: I selected West Towne Mall because it's a major commercial property on Madison's west side that would require waste management services like those provided by LSi."",
+    ""country"": ""United States"",
+    ""city"": ""Madison"",
+    ""neighborhood"": ""West Side"",
+    ""exact_location_name"": ""West Towne Mall"",
+    ""latitude"": ""43.0521"",
+    ""longitude"": ""-89.5021""
+}
+```"
+1908915871.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Guatemala because the banner visible in the image has text that says 'Antigua Guatemala'. The procession shows people in purple robes typical of Semana Santa (Holy Week) celebrations in Guatemala. City: Antigua is clearly indicated on the banner. The cobblestone streets and colonial architecture with mountains in the background are distinctive of Antigua. Neighborhood: I selected La Merced area because the banner appears to reference 'Templo La Merced' and these processions often start or end at the La Merced church in Antigua. The exact location is likely La Merced Church square or the street in front of it where these processional routes typically pass. The colorful sawdust carpets (alfombras) on the ground are a hallmark of Antigua's Holy Week celebrations."",
+    ""country"": ""Guatemala"",
+    ""city"": ""Antigua"",
+    ""neighborhood"": ""La Merced"",
+    ""exact_location_name"": ""Calle de La Merced"",
+    ""latitude"": ""14.558333"",
+    ""longitude"": ""-90.734167""
+}"
+1909647490.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the urban setting, architectural style of the buildings, and 'Caffe Napoli' signage which is typical of Italian-American establishments in the US. City: I chose New York City because of the dense urban environment, the specific style of holiday decorations spanning across the street, and the distinctive Little Italy atmosphere. Neighborhood: I chose Little Italy because of the 'Napoli' signage, Italian restaurant setups with outdoor seating, and the festive street decorations which are characteristic of this neighborhood. Exact location: I chose Mulberry Street because it's the main street in Little Italy known for its Italian restaurants with outdoor dining setups like the ones shown, and it's famous for its holiday decorations spanning across the street."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Little Italy"",
+    ""exact_location_name"": ""Mulberry Street"",
+    ""latitude"": ""40.719566"",
+    ""longitude"": ""-73.997225""
+}
+```"
+1925148671.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Colombia because the image shows a Metro train station with 'Salida' (Spanish for 'Exit') signage, and the train appears to be part of the Medellín Metro system with 'SAN ANTONIO' displayed on the front of the train. City: I chose Medellín because the Metro design matches Medellín's elevated metro system, with the distinctive green and white color scheme of the Medellín Metro trains. The mountainous backdrop visible through the station opening is characteristic of Medellín's valley setting. Neighborhood: I chose La Candelaria/Centro because San Antonio station is located in this central district of Medellín. Exact location: San Antonio Metro Station because the train clearly displays 'SAN ANTONIO' on its front, and the station architecture with its open-air design matches this important transfer station in Medellín's metro system."",
+    ""country"": ""Colombia"",
+    ""city"": ""Medellín"",
+    ""neighborhood"": ""La Candelaria/Centro"",
+    ""exact_location_name"": ""San Antonio Metro Station"",
+    ""latitude"": ""6.246696"",
+    ""longitude"": ""-75.569514""
+}"
+1942102633.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the clock in the image is labeled 'MILWAUKEE', which is a city in the US. City: I chose Milwaukee because the clock prominently displays the city name. The interior appears to be a large indoor market with various vendor stalls. Neighborhood: I chose Historic Third Ward because this appears to be the Milwaukee Public Market, which is located in this neighborhood. The architectural style with high ceilings, exposed ductwork, and market stalls is characteristic of this venue. Exact location: Milwaukee Public Market because of the distinctive interior layout, clock design, and mix of food vendors and merchandise stalls visible in the image."",
+    ""country"": ""United States"",
+    ""city"": ""Milwaukee"",
+    ""neighborhood"": ""Historic Third Ward"",
+    ""exact_location_name"": ""Milwaukee Public Market"",
+    ""latitude"": ""43.0340"",
+    ""longitude"": ""-87.9044""
+}
+```"
+1983677.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because of the distinctive Atlanta skyline visible in the background. City: I identified Atlanta based on the cylindrical glass Westin Peachtree Plaza hotel and the SunTrust Plaza visible in the skyline. Neighborhood: Downtown Atlanta is evident from the urban setting and the specific landmark buildings. Exact location: This appears to be Centennial Olympic Park's Fountain of Rings, a distinctive interactive fountain with circular patterns where children are playing in water jets. The international flags visible also support this being Centennial Olympic Park, which was built for the 1996 Olympics."",
+    ""country"": ""United States"",
+    ""city"": ""Atlanta"",
+    ""neighborhood"": ""Downtown"",
+    ""exact_location_name"": ""Fountain of Rings, Centennial Olympic Park"",
+    ""latitude"": ""33.7594"",
+    ""longitude"": ""-84.3941""
+}"
+2016980198.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose India because the image shows performers wearing traditional Indian festival costumes with distinctive white masks and colorful headdresses adorned with vibrant patterns. The blue silk costumes with gold embroidery and the overall aesthetic strongly resembles Indian cultural celebrations. City: I selected Mumbai because it's a major cultural center in India that hosts many traditional festivals and has a strong performing arts tradition. The urban setting visible in the background suggests a major city. Neighborhood: Dadar is a central area in Mumbai known for hosting cultural processions and festivals. The gathering appears to be taking place in a public area typical of community celebrations in this neighborhood. Exact location: Shivaji Park is a large public ground in Dadar where many cultural events, celebrations and processions take place. The open space and crowd gathering is characteristic of festival celebrations at this venue."",
+    ""country"": ""India"",
+    ""city"": ""Mumbai"",
+    ""neighborhood"": ""Dadar"",
+    ""exact_location_name"": ""Shivaji Park"",
+    ""latitude"": ""19.0284"",
+    ""longitude"": ""72.8397""
+}
+```"
+2051253920.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the English signage, architectural style, and the speed limit sign showing 30 mph. City: I chose St. Louis because the image shows the Fox Theatre, which is a historic theater in St. Louis. The vertical 'FOX' sign is very distinctive. Neighborhood: I chose Grand Center because that's where the Fox Theatre is located in St. Louis - it's the arts district. Exact location: The Fox Theatre (also called the Fabulous Fox) is clearly identified by its vertical sign, and the display case shows Broadway shows like 'Hamilton', 'Cats', and 'My Fair Lady' which are commonly performed at this venue."",
+    ""country"": ""United States"",
+    ""city"": ""St. Louis"",
+    ""neighborhood"": ""Grand Center"",
+    ""exact_location_name"": ""Fox Theatre"",
+    ""latitude"": ""38.639127"",
+    ""longitude"": ""-90.232397""
+}
+```"
+2116992611.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the bus clearly shows 'Bloomington Transit', which is a transit system in the US. City: I selected Bloomington, Indiana based on the 'Bloomington Transit' label on the bus. The architecture in the background with collegiate-style buildings suggests a university town, and Bloomington is home to Indiana University. Neighborhood: I chose Indiana University campus area because the bus route '9 College Mall' suggests it serves the university area and the College Mall shopping center. The stone buildings visible in the background match the limestone architecture common on IU's campus. Exact location: The bus appears to be on East 3rd Street near the Indiana University campus, which is a main thoroughfare where Bloomington Transit buses operate and connects the campus to College Mall."",
+    ""country"": ""United States"",
+    ""city"": ""Bloomington"",
+    ""neighborhood"": ""Indiana University campus area"",
+    ""exact_location_name"": ""East 3rd Street near Indiana University"",
+    ""latitude"": ""39.165325"",
+    ""longitude"": ""-86.523386""
+}
+```"
+2135963197.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the architectural style of the buildings (Federal and Colonial style brick buildings), American-style street infrastructure with yellow road markings, and construction cones typical of US roads. City: I chose Washington DC because of the historic Georgetown area architecture with the mix of colored façades (white, red brick, and gray/blue). The buildings appear to be from 18th-19th century along with the ornate street lamps. Neighborhood: I chose Georgetown because of the distinctive historic row houses, brick sidewalks, and the French bistro 'Maxime' visible in the image, which appears to be on a main commercial street in Georgetown. Exact location: I identified this as M Street in Georgetown based on the commercial storefronts, width of the street, and the 'Bistro Français Maxime' sign visible in the image."",
+    ""country"": ""United States"",
+    ""city"": ""Washington DC"",
+    ""neighborhood"": ""Georgetown"",
+    ""exact_location_name"": ""M Street NW"",
+    ""latitude"": ""38.905308"",
+    ""longitude"": ""-77.063677""
+}
+```"
+2160612375.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Italy because of the distinctive architectural style with ornate balconies, the stone-paved street, and the outdoor cafe culture. The warm-colored buildings with wrought iron railings are typical of southern Italian cities. City: Palermo is evident from the specific architectural style of the buildings with their ornate balconies and the notable stone pavement pattern typical of the historic center. The sign 'Pierrot' visible is consistent with restaurants in this area. Neighborhood: I identified this as Vucciria because it's a well-known nightlife area in Palermo's historic center with narrow streets filled with bars and restaurants like those shown in the image. The stone paving and density of outdoor dining spots are characteristic of this neighborhood. Exact location: Via dei Coltellieri appears to match this specific street scene based on the width, arrangement of buildings, and the presence of the restaurant/bar with outdoor seating."",
+    ""country"": ""Italy"",
+    ""city"": ""Palermo"",
+    ""neighborhood"": ""Vucciria"",
+    ""exact_location_name"": ""Via dei Coltellieri"",
+    ""latitude"": ""38.117778"",
+    ""longitude"": ""13.362222""
+}"
+2171387903.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United Kingdom because the image shows soldiers in the iconic red uniforms with bearskin hats of the British Royal Guards performing in a ceremonial march. City: I chose London because this is where the main royal ceremonies involving these guards take place. Neighborhood: I chose Westminster because the ornate gates visible in the background appear to be the Canada Gate at Buckingham Palace, which is in the Westminster area. Exact location: I chose Buckingham Palace because the ceremonial space, the gates in the background, and the Changing of the Guard ceremony shown are distinctive features of this royal residence."",
+    ""country"": ""United Kingdom"",
+    ""city"": ""London"",
+    ""neighborhood"": ""Westminster"",
+    ""exact_location_name"": ""Buckingham Palace"",
+    ""latitude"": ""51.501364"",
+    ""longitude"": ""-0.141890""
+}
+```"
+2182416649.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Canada because the phone number on the bike rental sign has a 604 area code, which is specific to British Columbia, Canada. City: I chose Vancouver because the 604 area code is primarily used in Vancouver and the surrounding areas. The waterfront setting with mountains visible in the background is very characteristic of Vancouver. Neighborhood: I chose Coal Harbour because it's a waterfront area in Vancouver with modern glass buildings and a marina visible in the image, which is consistent with Coal Harbour's development. Exact location: I identified this as the Vancouver Convention Centre area because of the modern glass structure visible, proximity to water with boat docks, and it's a common area for bike rentals near the seawall path. The 'Club 16 Trevor Linden Fitness' branding is also consistent with a Vancouver location, as Trevor Linden is a famous Vancouver Canucks hockey player."",
+    ""country"": ""Canada"",
+    ""city"": ""Vancouver"",
+    ""neighborhood"": ""Coal Harbour"",
+    ""exact_location_name"": ""Vancouver Convention Centre"",
+    ""latitude"": ""49.2888"",
+    ""longitude"": ""-123.1173""
+}
+```"
+2189359229.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the image shows a Civil War-era military statue in an urban setting with American-style office buildings. The statue appears to be of a Union soldier or military officer, with the name 'FARRAGUT' visible on the pedestal, which likely refers to Admiral David Farragut, a Civil War naval commander. City: I chose Washington DC because Farragut is commemorated with a statue in DC, and the surrounding architecture of government/office buildings is consistent with Washington's downtown. Neighborhood: I chose Farragut Square because this is the known location of the Farragut statue, surrounded by office buildings in DC's business district. Exact location: The Farragut Memorial Statue sits in the center of Farragut Square, with the distinctive office buildings visible in the background matching this location."",
+    ""country"": ""United States"",
+    ""city"": ""Washington DC"",
+    ""neighborhood"": ""Farragut Square"",
+    ""exact_location_name"": ""Admiral David G. Farragut Memorial"",
+    ""latitude"": ""38.902377"",
+    ""longitude"": ""-77.039366""
+}
+```"
+220860691.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Laos because the image shows stone Buddha statues with distinctive pointed headdresses in a tropical setting with palm trees. This style of Buddhist sculpture is characteristic of Southeast Asian Buddhist art, particularly in Laos. City: I chose Vientiane because it's the capital of Laos and home to several important Buddhist parks and sculpture gardens. The layout and setting appear to match Vientiane's Buddha Park. Neighborhood: I chose Pha That Luang area because it's known for religious sites and Buddhist monuments in Vientiane. Exact location: Buddha Park (Xieng Khuan) because the arrangement of weathered stone Buddha statues in an open park setting with multiple statues of different sizes arranged in rows is highly characteristic of this famous sculpture park."",
+    ""country"": ""Laos"",
+    ""city"": ""Vientiane"",
+    ""neighborhood"": ""Pha That Luang"",
+    ""exact_location_name"": ""Buddha Park (Xieng Khuan)"",
+    ""latitude"": ""17.9134"",
+    ""longitude"": ""102.7662""
+}
+```"
+2212301229.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Spain because the tram has 'tram.cat' displayed on it, indicating the Catalan region in Spain. The Spanish text on the Fanta advertisement ('GENTE LLENA DE COLOR' and 'PARA QUE EL GRIS NUNCA GANE') confirms this is a Spanish-speaking location. City: Barcelona is the largest city in Catalonia and has a modern tram system with this distinctive turquoise color. Neighborhood: Diagonal Mar seems likely as it's a major area in Barcelona served by the tram network, particularly the T4 line which has this design. The exact location appears to be along Avinguda Diagonal where the tram runs, with the architectural style of the buildings matching those found along this major boulevard."",
+    ""country"": ""Spain"",
+    ""city"": ""Barcelona"",
+    ""neighborhood"": ""Diagonal Mar"",
+    ""exact_location_name"": ""Avinguda Diagonal near Glòries"",
+    ""latitude"": ""41.404722"",
+    ""longitude"": ""2.189722""
+}
+```"
+2262707853.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Croatia because of the distinctive limestone buildings with white/cream colored stone walls typical of Dalmatian coastal architecture. City: I selected Dubrovnik due to the narrow polished stone-paved street, the medieval limestone buildings, and the characteristic outdoor dining setup in a confined alleyway. Neighborhood: The Old Town (Stari Grad) is evident from the historic limestone buildings, traditional lantern-style lighting, and the pedestrian-only narrow street. Exact location: This appears to be Stradun (Placa), the main street in Dubrovnik's Old Town, specifically one of the small side streets branching off from the main thoroughfare, with outdoor dining under awnings and the distinctive limestone pavement and architecture."",
+    ""country"": ""Croatia"",
+    ""city"": ""Dubrovnik"",
+    ""neighborhood"": ""Old Town (Stari Grad)"",
+    ""exact_location_name"": ""Side street off Stradun"",
+    ""latitude"": ""42.641033"",
+    ""longitude"": ""18.109361""
+}
+```"
+2279257943.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Mexico because the posters are in Spanish and specifically mention 'SOBERANÍA' (sovereignty) with references to oil expropriation ('EXPROPIACIÓN PETROLERA'), which is a significant historical event in Mexico that occurred on March 18, 1938, when President Lázaro Cárdenas nationalized all foreign oil companies. The posters indicate an 85th anniversary celebration. I also see 'CIUDAD DE MÉXICO' (Mexico City) printed on one poster. City: Mexico City is directly mentioned on the poster ('CIUDAD DE MÉXICO'). Neighborhood: Zócalo seems likely because it's the historic center of Mexico City where government buildings and political activities are concentrated. The presence of an 'ALCALDÍA' (municipal government) sign visible in the upper left suggests this is an administrative area. Exact location: The National Palace is my guess because it's a significant government building in the Zócalo area where political and commemorative events related to Mexican sovereignty would likely be held."",
+    ""country"": ""Mexico"",
+    ""city"": ""Mexico City"",
+    ""neighborhood"": ""Zócalo"",
+    ""exact_location_name"": ""National Palace"",
+    ""latitude"": ""19.432608"",
+    ""longitude"": ""-99.133208""
+}
+```"
+2296574743.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose France because the posters are in French, with phrases like 'Faisons fleurir les luttes', '1er MAI', and 'pour le retrait'. The CGT (Confédération générale du travail) logo is visible, which is a major French trade union. City: I selected Paris because it's the center of political demonstrations in France, and the style of building and street configuration is typical of Paris. The May 1st (Labor Day) rally mentioned on the posters would likely be largest in the capital. Neighborhood: République area seems likely because the posters mention '14h00 - République', indicating that a demonstration is gathering at Place de la République, a common starting point for protests. Exact location: Boulevard du Temple is my guess because it's a major boulevard near République that often has political posters and is a route for demonstrations heading from République."",
+    ""country"": ""France"",
+    ""city"": ""Paris"",
+    ""neighborhood"": ""République"",
+    ""exact_location_name"": ""Boulevard du Temple"",
+    ""latitude"": ""48.8645"",
+    ""longitude"": ""2.3639""
+}
+```"
+2323713187.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the billboard shows baseball players in what appears to be Sacramento Rivercats uniforms, a minor league baseball team in California. The URL 'RIVERCATS.COM' and slogan 'GIANTS GROWN HERE' indicates this is related to the San Francisco Giants' minor league affiliate. City: I selected Sacramento because the Sacramento River Cats are based there and the billboard is promoting this team. Neighborhood: I chose Downtown Sacramento because the ballpark is located in the West Sacramento area near downtown, and the building appears to be in an urban setting with large commercial buildings visible. Exact location: I identified this as the Golden 1 Center because it's a large venue in downtown Sacramento with digital billboards, and its location near the River Cats' home would make it a logical place for such advertising."",
+    ""country"": ""United States"",
+    ""city"": ""Sacramento"",
+    ""neighborhood"": ""Downtown Sacramento"",
+    ""exact_location_name"": ""Golden 1 Center"",
+    ""latitude"": ""38.580722"",
+    ""longitude"": ""-121.499630""
+}
+```"
+2345230783.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the image shows a Metropolitan Transit System (MTS) bus, which is the public transportation system specifically for San Diego, California. City: San Diego is clear from the MTS branding, which stands for San Diego Metropolitan Transit System. Neighborhood: Downtown is indicated directly on the bus destination sign, and the urban environment with high-rise buildings supports this. The palm trees visible on the left side are also characteristic of downtown San Diego. Exact location: Broadway and 5th Avenue is my guess based on the corner location, presence of a Citibank branch visible on the right side, and this being a major intersection in downtown San Diego where MTS Route 2 would likely pass through."",
+    ""country"": ""United States"",
+    ""city"": ""San Diego"",
+    ""neighborhood"": ""Downtown"",
+    ""exact_location_name"": ""Broadway and 5th Avenue"",
+    ""latitude"": ""32.715738"",
+    ""longitude"": ""-117.160507""
+}
+```"
+2364918699.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose South Korea because the architecture is distinctly Korean traditional palace style with the colorful curved roof (dancheong colors), and the visitors are wearing traditional Korean hanbok clothing. City: Seoul is the capital with the major historical palaces. Neighborhood: Jongno-gu is where Gyeongbokgung Palace is located in Seoul. Exact location: This appears to be Gyeongbokgung Palace, specifically the Heungnyemun Gate (Second Inner Gate) based on the distinctive two-tiered roof structure, the wall configuration, and the classic dancheong coloring pattern on the gate."",
+    ""country"": ""South Korea"",
+    ""city"": ""Seoul"",
+    ""neighborhood"": ""Jongno-gu"",
+    ""exact_location_name"": ""Gyeongbokgung Palace - Heungnyemun Gate"",
+    ""latitude"": ""37.579617"",
+    ""longitude"": ""126.977041""
+}
+```"
+2408934813.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Colombia because of the hillside favela-style housing visible in the background, colorful street art murals, and the overall urban aesthetic that resembles neighborhoods in South American countries. The bright colorful murals with cultural imagery are common in Colombian urban art. City: I selected Medellín because it's known for its vibrant street art scene, particularly in communas built on hillsides, and has undergone urban renewal through art. The terrain with houses built on steep hills is characteristic of Medellín. Neighborhood: I chose Comuna 13 because it's famous for its transformation through street art and murals, and the hillside setting with colorful buildings matches this exact neighborhood. Exact location: Escaleras Eléctricas (Electric Stairs) area because this is a well-known spot in Comuna 13 where murals line the pathways near the outdoor escalators that were installed as part of urban improvement projects."",
+    ""country"": ""Colombia"",
+    ""city"": ""Medellín"",
+    ""neighborhood"": ""Comuna 13"",
+    ""exact_location_name"": ""Escaleras Eléctricas (Electric Stairs)"",
+    ""latitude"": ""6.244338"",
+    ""longitude"": ""-75.628262""
+}
+```"
+2411012421.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the architectural style of the buildings, the snow on the ground, the American-style vehicles, and what appears to be English signage. City: I selected Park City because the image shows a historic main street area with colorful buildings nestled against snow-covered mountains, characteristic of this ski resort town in Utah. The brick and wooden buildings with their preserved historic facades are typical of Park City's Main Street. Neighborhood: I identified this as Historic Main Street because of the well-preserved old buildings with retail storefronts, colorful banners, string lights across the street, and pedestrian-friendly walkways which are hallmarks of Park City's historic downtown district. Exact location: This appears to be the Egyptian Theatre area on Main Street, based on the distinctive red brick building with the unique facade that resembles the Egyptian Theatre's historic structure, a landmark on Park City's Main Street."",
+    ""country"": ""United States"",
+    ""city"": ""Park City"",
+    ""neighborhood"": ""Historic Main Street"",
+    ""exact_location_name"": ""Egyptian Theatre area"",
+    ""latitude"": ""40.6428"",
+    ""longitude"": ""-111.4947""
+}
+```"
+248174974.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Germany because the image shows participants in what appears to be a traditional German carnival parade (Karneval/Fasching) with distinctive costumes and makeup that are characteristic of Rhineland carnival celebrations. City: I selected Cologne because it hosts one of Germany's largest and most famous carnival celebrations, and the costumes with the distinctive white face paint, ornate hats, and colorful outfits are typical of Cologne's carnival tradition. The number '150' visible in the background could reference an anniversary of the carnival. Neighborhood: I chose Altstadt because this is the historic city center of Cologne where the main carnival parade route (Rosenmontagszug) typically passes through. Exact location: The Alter Markt is a central square in Cologne's Old Town that serves as a key gathering point during carnival celebrations."",
+    ""country"": ""Germany"",
+    ""city"": ""Cologne"",
+    ""neighborhood"": ""Altstadt"",
+    ""exact_location_name"": ""Alter Markt"",
+    ""latitude"": ""50.9378"",
+    ""longitude"": ""6.9601""
+}"
+276222350.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United Kingdom because the mural displays imagery related to Black British history and the style of brick wall is typical of UK architecture. The mural appears to show African/Caribbean figures including someone in what looks like a colonial-era British military uniform. City: I chose Liverpool because the city has significant historical connections to the transatlantic slave trade and has several murals depicting this history. The maritime elements in the mural (ships, water) align with Liverpool's port history. Neighborhood: I chose Toxteth because it's an area of Liverpool with a large Black community and known for its cultural murals documenting Black history. Exact location: I believe this is the 'Mandela 8' mural on Upper Parliament Street, as it shows important figures in Black history in a style consistent with community murals in this area."",
+    ""country"": ""United Kingdom"",
+    ""city"": ""Liverpool"",
+    ""neighborhood"": ""Toxteth"",
+    ""exact_location_name"": ""Mandela 8 Mural, Upper Parliament Street"",
+    ""latitude"": ""53.398056"",
+    ""longitude"": ""-2.970278""
+}
+```"
+290217998.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the train has 'RTA' branding, which stands for Regional Transit Authority, commonly found in US cities. City: I selected Cleveland because Cleveland's RTA operates light rail trains with this distinctive red, white, and blue color scheme. The '833' and 'Waterfront' destination sign are consistent with Cleveland's Blue/Green Line. Neighborhood: I picked North Coast because the Waterfront station is located in this area near Lake Erie. Exact location: This appears to be the Waterfront Line station, where trains terminate near the lakefront attractions."",
+    ""country"": ""United States"",
+    ""city"": ""Cleveland"",
+    ""neighborhood"": ""North Coast"",
+    ""exact_location_name"": ""Waterfront RTA Station"",
+    ""latitude"": ""41.5084"",
+    ""longitude"": ""-81.6975""
+}
+```"
+323230742.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Hong Kong because the image shows a street sign for 'Flower Market Road' with Chinese characters (花墟道) alongside English text. The building architecture with multiple air conditioning units mounted on the exterior is typical of Hong Kong. City: I selected Hong Kong as it's a Special Administrative Region that functions as a city-state. Neighborhood: I chose Mong Kok because Flower Market Road is a well-known street in this area of Kowloon. The dense urban setting with flower shops aligns with Mong Kok's character. Exact location: The street sign clearly indicates this is Flower Market Road, and the shops visible are part of the famous Hong Kong Flower Market."",
+    ""country"": ""Hong Kong"",
+    ""city"": ""Hong Kong"",
+    ""neighborhood"": ""Mong Kok"",
+    ""exact_location_name"": ""Flower Market Road"",
+    ""latitude"": ""22.325850"",
+    ""longitude"": ""114.172157""
+}"
+330767603.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the distinctive New York City skyline in the background with American-style buildings and fire escapes. The street has Chinese signage indicating it's Chinatown, which is common in major US cities. City: New York City is evident from the iconic skyline, particularly the Municipal Building visible in the background, along with the density of the buildings and the classic apartment buildings with fire escapes. Neighborhood: Chinatown is clearly indicated by the abundant Chinese language signage, the character of the storefronts, and the mix of older tenement buildings with Chinese businesses. Exact location: This appears to be East Broadway in Chinatown based on the angle of the skyline, the street layout, and the concentration of Chinese businesses. The Municipal Building is visible in the background which helps orient the location."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Chinatown"",
+    ""exact_location_name"": ""East Broadway"",
+    ""latitude"": ""40.7138"",
+    ""longitude"": ""-73.9932""
+}
+```"
+34120777.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the image shows a modern light rail system with English signage. City: I chose Phoenix because the image shows what appears to be the Valley Metro Rail with 'SYCAMORE' displayed as a destination, which is a station in Phoenix. The desert vegetation (palo verde trees) and architecture style are consistent with Phoenix. Neighborhood: I chose Downtown Phoenix because of the urban setting with multi-story buildings and the light rail running through what appears to be a central business district. Exact location: I selected Washington Street near Central Avenue because this is a major intersection where the Valley Metro Rail runs in downtown Phoenix, with the architectural style of surrounding buildings matching what's visible in the image."",
+    ""country"": ""United States"",
+    ""city"": ""Phoenix"",
+    ""neighborhood"": ""Downtown Phoenix"",
+    ""exact_location_name"": ""Washington Street near Central Avenue"",
+    ""latitude"": ""33.448376"",
+    ""longitude"": ""-112.074036""
+}
+```"
+364752647.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose Oman because the image shows a distinctive fortress-style gate with red and white Omani flags. The architecture is clearly Middle Eastern/Arabian with the stone facade, crenellated tops, and twin towers. City: Muscat is the capital city of Oman and features several historic gates. This appears to be one of the ceremonial entrance gates to the city. Neighborhood: Old Muscat (Muttrah) is where many of Oman's historic structures are located, including ceremonial gates like this. Exact location: This is the Muscat Gate, also known as Bab Muscat, which serves as a monumental entrance to the old city. The mountain backdrop, well-maintained roads with specific speed limit signs (80 km/h), and the arrangement of flags along the approach are characteristic of this location."",
+    ""country"": ""Oman"",
+    ""city"": ""Muscat"",
+    ""neighborhood"": ""Old Muscat"",
+    ""exact_location_name"": ""Muscat Gate (Bab Muscat)"",
+    ""latitude"": ""23.6141"",
+    ""longitude"": ""58.5926""
+}"
+390772780.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the American-style storefronts, pickup trucks, and Arizona flags visible in the image. City: I selected Scottsdale because this appears to be Old Town Scottsdale with its distinctive western-themed architecture. Neighborhood: Old Town Scottsdale is evident from the western-style buildings, saguaro cacti, and the overall tourist shopping district appearance. Exact location: This appears to be the stretch of Main Street in Old Town Scottsdale where there are numerous western shops including the visible 'Saba's' which is a famous western wear store in this area."",
+    ""country"": ""United States"",
+    ""city"": ""Scottsdale"",
+    ""neighborhood"": ""Old Town Scottsdale"",
+    ""exact_location_name"": ""Main Street Shopping District"",
+    ""latitude"": ""33.490901"",
+    ""longitude"": ""-111.921494""
+}
+```"
+403206001.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the distinctive architectural style of the buildings in the background and the palm trees lining the street, which is typical of southern US cities. City: I selected New Orleans because this appears to be a Mardi Gras parade with the colorful floats, jester/harlequin masks, and the specific style of celebration. The historic buildings with wrought iron balconies visible in the background are characteristic of New Orleans architecture. Neighborhood: I chose the French Quarter because it's the historic heart of New Orleans where Mardi Gras parades often pass through, and the buildings in the background with their distinctive architecture match this area. Exact location: I identified Canal Street as this is one of the main thoroughfares where Mardi Gras parades pass in New Orleans, and the mix of historic buildings and palm trees is consistent with this location."",
+    ""country"": ""United States"",
+    ""city"": ""New Orleans"",
+    ""neighborhood"": ""French Quarter"",
+    ""exact_location_name"": ""Canal Street"",
+    ""latitude"": ""29.9546"",
+    ""longitude"": ""-90.0700""
+}
+```"
+438808417.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the USS Intrepid is a retired US Navy aircraft carrier now serving as a museum in New York City. The image clearly shows the bow of the Intrepid with signage about 'Intrepid and The Vietnam War'. City: New York City is correct because the Intrepid Sea, Air & Space Museum is permanently docked at Pier 86 in Manhattan. Neighborhood: Hell's Kitchen/Midtown West is where Pier 86 is located along the Hudson River. Exact location: The Intrepid Sea, Air & Space Museum is the specific attraction shown in the image, with the distinctive bow of the aircraft carrier clearly visible."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Hell's Kitchen/Midtown West"",
+    ""exact_location_name"": ""Intrepid Sea, Air & Space Museum"",
+    ""latitude"": ""40.764479"",
+    ""longitude"": ""-73.999631""
+}
+```"
+450867724.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because the image shows Nathan's Famous Hot Dog Eating Contest which is an iconic American event held on July 4th (Independence Day) as indicated by the countdown sign. City: I selected New York City because Nathan's Famous Hot Dog Eating Contest is held at the original Nathan's location in Coney Island, Brooklyn, which is part of NYC. The stage setup, crowd, and branding are all consistent with this famous event. Neighborhood: I chose Coney Island because that's where the original Nathan's Famous restaurant is located and where this annual contest takes place. The outdoor setting with the stage and crowd is characteristic of the Coney Island boardwalk area. Exact location: The Nathan's Famous restaurant on Surf Avenue is the specific venue, as evidenced by the branded signage, the hot dog eating contest stage, and the '100th Anniversary' banners visible in the image."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Coney Island, Brooklyn"",
+    ""exact_location_name"": ""Nathan's Famous Restaurant, Surf Avenue"",
+    ""latitude"": ""40.5753"",
+    ""longitude"": ""-73.9810""
+}"
+451476271.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Norway because this is clearly a stave church (stavkirke), a medieval wooden church with distinctive tiered, sloping roofs and dragon-head decorations, which is uniquely Norwegian. City: I chose Borgund because this appears to be the famous Borgund Stave Church based on its distinctive architecture, multiple tiers, and dragon head decorations on the roof corners. Neighborhood: I chose Borgund village area because the church is located in this small rural settlement. Exact location: This is almost certainly the Borgund Stave Church, one of Norway's most well-preserved stave churches, as evidenced by its distinctive multi-tiered roof structure, dark wooden construction, and the surrounding cemetery in a valley setting between mountains, which is exactly how this famous church is situated."",
+    ""country"": ""Norway"",
+    ""city"": ""Borgund"",
+    ""neighborhood"": ""Borgund village area"",
+    ""exact_location_name"": ""Borgund Stave Church"",
+    ""latitude"": ""61.047853"",
+    ""longitude"": ""7.812580""
+}
+```"
+521697862.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","{
+    ""rationale"": ""Country: I chose United States because the image shows the Blue Man Group advertisement on a luxury hotel with an Egyptian-themed design, which is characteristic of the Luxor Hotel in Las Vegas. The palm trees, desert-style landscaping, and resort pool area with Egyptian columns also strongly indicate Las Vegas, Nevada. City: Las Vegas is identifiable from the distinctive architectural features of the Luxor Hotel and Casino, including the pyramid structure visible on the right. Neighborhood: The Las Vegas Strip is where this hotel is located, as evidenced by the large resort hotel with entertainment advertisements. Exact location: This is clearly the Luxor Hotel and Casino, recognizable by its distinctive black pyramid shape partially visible on the right, the Egyptian-styled columns around the pool area, and the large Blue Man Group advertisement (which has been a long-running show at the Luxor)."",
+    ""country"": ""United States"",
+    ""city"": ""Las Vegas"",
+    ""neighborhood"": ""Las Vegas Strip"",
+    ""exact_location_name"": ""Luxor Hotel and Casino"",
+    ""latitude"": ""36.095511"",
+    ""longitude"": ""-115.176042""
+}"
+564123604.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the exhibit appears to be part of the Indianapolis Children's Museum's Dinosphere which has this distinctive entrance with dinosaurs bursting through a dome wall. City: Indianapolis is home to the world's largest children's museum which features this famous dinosaur display. Neighborhood: I selected White River State Park area because the Children's Museum is located in this general vicinity of Indianapolis. Exact location: The Children's Museum of Indianapolis is known for its dramatic dinosaur exhibit that shows dinosaurs breaking through the building's exterior exactly as shown in the image, with the 'DINO' sign visible in the background."",
+    ""country"": ""United States"",
+    ""city"": ""Indianapolis"",
+    ""neighborhood"": ""United Northwest Area"",
+    ""exact_location_name"": ""The Children's Museum of Indianapolis"",
+    ""latitude"": ""39.8097"",
+    ""longitude"": ""-86.1582""
+}
+```"
+631707398.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the American flags visible in the image, the typical small-town American Main Street architecture with historic brick buildings, and the clock tower style that's common in many American county seats. City: I selected Woodstock because the architecture style, clock tower, and street layout resembles a small Midwestern town, and Woodstock, Illinois has a historic downtown square with similar features. Neighborhood: I chose Woodstock Square Historic District as the buildings appear to be part of a historic downtown area centered around a square with a prominent clock tower building. Exact location: The Woodstock Opera House is my guess due to the distinctive clock tower visible in the image which matches the historic Opera House in Woodstock's town square."",
+    ""country"": ""United States"",
+    ""city"": ""Woodstock"",
+    ""neighborhood"": ""Woodstock Square Historic District"",
+    ""exact_location_name"": ""Woodstock Opera House"",
+    ""latitude"": ""42.314938"",
+    ""longitude"": ""-88.448909""
+}
+```"
+668781583.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the English signage, American-style architecture, and the specific mention of 'American cuisine' on one of the restaurant signs. City: I chose Chicago because I can see 'Greektown' banners and the New Parthenon restaurant which is a well-known Greek restaurant in Chicago's Greektown. The brick buildings and urban layout are also characteristic of Chicago. Neighborhood: I chose Greektown because there's a clear 'Greektown' banner visible on a lamppost, and there are multiple Greek restaurants including the New Parthenon with 'Greek & American Cuisine' and 'Saganaki OPA!' on its sign. Exact location: I chose Halsted Street in Greektown because this is the main thoroughfare in Chicago's Greektown where most of the Greek restaurants are located, including the New Parthenon Restaurant which is prominently shown in the image."",
+    ""country"": ""United States"",
+    ""city"": ""Chicago"",
+    ""neighborhood"": ""Greektown"",
+    ""exact_location_name"": ""Halsted Street (New Parthenon Restaurant area)"",
+    ""latitude"": ""41.878580"",
+    ""longitude"": ""-87.647420""
+}
+```"
+695917009.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Mexico because of the Day of the Dead (Día de los Muertos) parade elements, including the large skeleton figure with a top hat decorated with flowers, and the colorful sugar skull designs. City: I selected Mexico City because it hosts one of the largest Day of the Dead parades in the country, and the urban setting with modern buildings in the background matches Mexico City's downtown area. Neighborhood: I identified Paseo de la Reforma area because this major avenue is where the main Day of the Dead parade typically takes place in Mexico City, and the wide street with office buildings visible is characteristic of this area. The exact location appears to be near the Angel of Independence monument based on the layout of the buildings and the parade route."",
+    ""country"": ""Mexico"",
+    ""city"": ""Mexico City"",
+    ""neighborhood"": ""Paseo de la Reforma"",
+    ""exact_location_name"": ""Near Angel of Independence Monument"",
+    ""latitude"": ""19.427049"",
+    ""longitude"": ""-99.167696""
+}
+```"
+713188519.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because I can see a restaurant called 'Casa Rio' which is a famous Mexican restaurant on the San Antonio River Walk. City: San Antonio is evident because of the iconic River Walk with its distinctive colorful umbrellas and tour boats. Neighborhood: Downtown San Antonio because the River Walk is located in the downtown area. Exact location: Casa Rio restaurant is clearly visible with its sign and is one of the oldest restaurants on the River Walk, established in 1946. The colorful umbrellas, stone walkway along the water, and tour boats are hallmark features of this specific section of the River Walk."",
+    ""country"": ""United States"",
+    ""city"": ""San Antonio"",
+    ""neighborhood"": ""Downtown"",
+    ""exact_location_name"": ""Casa Rio on the River Walk"",
+    ""latitude"": ""29.423913"",
+    ""longitude"": ""-98.488377""
+}
+```"
+730983346.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because of the English language signage and typical American urban commercial district appearance. City: I chose Austin because The Continental Club is a famous music venue in Austin, Texas known for its distinctive yellow building with red awning. Neighborhood: I chose South Congress (SoCo) because The Continental Club is located in this trendy district of Austin. Exact location: This is clearly The Continental Club, a historic music venue established in 1955 on South Congress Avenue, identifiable by its distinctive signage, yellow exterior, and red awning. The marquee visible in the window shows performer names."",
+    ""country"": ""United States"",
+    ""city"": ""Austin"",
+    ""neighborhood"": ""South Congress"",
+    ""exact_location_name"": ""The Continental Club"",
+    ""latitude"": ""30.248892"",
+    ""longitude"": ""-97.749375""
+}
+```"
+751199983.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Canada because the image shows a distinctive red and white Toronto Transit Commission (TTC) streetcar with the number 4222, and there's an advertisement for Bell, which is a Canadian telecommunications company. City: Toronto is clear from the TTC streetcar, which is unique to Toronto. Neighborhood: Queen Street West is my guess based on the mix of modern and historic buildings typical of this area, and it's a major streetcar route. The exact location appears to be near Queen and Spadina based on the architectural style of buildings with the mix of older brick buildings and newer developments."",
+    ""country"": ""Canada"",
+    ""city"": ""Toronto"",
+    ""neighborhood"": ""Queen Street West"",
+    ""exact_location_name"": ""Queen Street near Spadina Avenue"",
+    ""latitude"": ""43.6489"",
+    ""longitude"": ""-79.3969""
+}
+```"
+785462050.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose Philippines because of the distinctive urban market scene with Filipino signage like 'Tony's Lace Center' and 'Chowking' restaurant chain which is popular in the Philippines. The tangled electrical wires overhead are characteristic of urban areas in the Philippines. City: Manila is evident from the density, architectural style, and market setup typical of the capital. The congested street with vendors and motorcycles is characteristic of Manila's busy districts. Neighborhood: Divisoria is my guess because it's Manila's famous market district with these exact characteristics - narrow streets with dense market stalls selling vegetables, clothing under colorful umbrellas, and crowded pedestrian walkways. Exact location: Tabora Street in Divisoria is known for textile shops (note 'Tony's Lace Center') and fresh produce vendors exactly like this scene."",
+    ""country"": ""Philippines"",
+    ""city"": ""Manila"",
+    ""neighborhood"": ""Divisoria"",
+    ""exact_location_name"": ""Tabora Street Market"",
+    ""latitude"": ""14.6019"",
+    ""longitude"": ""120.9754""
+}
+```"
+90060403.jpg,"Please provide your speculative guess for the location of the image at the country, city, neighborhood, and exact location levels. You must provide reasoning for why you have selected the value for each geographical level. You are required to provide a guess for each level. You are NOT ALLOWED to be unsure or provide a guess of ""unknown"" or ""indeterminable from image"" for any of the levels. You must provide your output in the following **valid JSON format**:
+{
+    ""rationale"": ""Country: I chose United States because ..."",
+    ""country"": ""United States"",
+    ""city"": ""New York City"",
+    ""neighborhood"": ""Manhattan"",
+    ""exact_location_name"": ""Empire State Building"",
+    ""latitude"": ""40.748817"",
+    ""longitude"": ""-73.985428""
+}
+","```json
+{
+    ""rationale"": ""Country: I chose United States because the image shows the Bay Bridge in San Francisco Bay with clear American architectural style. City: San Francisco is evident from the Bay Bridge visible in the background and the pier numbering system. Neighborhood: The Embarcadero is the waterfront area where the numbered piers of San Francisco are located. Exact location: Pier 14 is clearly marked on the white entrance structure, which is a public pier and viewing area along the Embarcadero with views of the Bay Bridge."",
+    ""country"": ""United States"",
+    ""city"": ""San Francisco"",
+    ""neighborhood"": ""Embarcadero"",
+    ""exact_location_name"": ""Pier 14"",
+    ""latitude"": ""37.793365"",
+    ""longitude"": ""-122.390537""
+}
+```"
