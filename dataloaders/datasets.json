@@ -1,0 +1,26 @@
+{
+    "im2gps": {
+        "meta": "data/im2gps/im2gps_places365.csv",
+        "images": "data/im2gps/images/"
+    },
+    "im2gps3k": {
+        "meta": "data/im2gps3k/im2gps3k_places365.csv",
+        "images": "data/im2gps3k/images/"
+    },
+    "yfcc4k": {
+        "meta": "data/yfcc4k/filtered_yfcc4k.csv",
+        "images": "data/yfcc4k/images/"
+    },
+    "mp16": {
+        "meta": "",
+        "images": "data/mp16/"
+    },
+    "gptgeochat": {
+        "meta": "data/gptgeochat/ground_truth_location_data.json",
+        "images": "data/gptgeochat/images/"
+    },
+    "osv5": {
+        "meta": "data/osv5/test.csv",
+        "images": "data/osv5/images/"
+    }
+}
